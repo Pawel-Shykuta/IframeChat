@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IframeChat/static/css/main.02f6637a.css",
+    "main.js": "/IframeChat/static/js/main.017a3cd3.js",
+    "index.html": "/IframeChat/index.html",
+    "main.02f6637a.css.map": "/IframeChat/static/css/main.02f6637a.css.map",
+    "main.017a3cd3.js.map": "/IframeChat/static/js/main.017a3cd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f6637a.css",
+    "static/js/main.017a3cd3.js"
+  ]
+}
